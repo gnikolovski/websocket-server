@@ -25,7 +25,7 @@ php websocket-server.php
 ```
 
 Server can now accept connections and relay messages. To keep server running 
-24/7 you should probably use something like a [Supervisord](http://supervisord.org)
+24/7 you should probably use something like [Supervisord](http://supervisord.org)
 
 ## Client side
 
@@ -52,5 +52,5 @@ connection.send('This is a message');
 ### AUTHOR
 
 Goran Nikolovski  
-Website: http://gorannikolovski.com  
-Email: nikolovski84@gmail.com  
+Website: https://gorannikolovski.com  
+Email: goran@gorannikolovski.com  
